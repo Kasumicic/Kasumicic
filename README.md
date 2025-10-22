@@ -25,7 +25,7 @@
     <td width="50%">
       <h3 align="center">Решение для Актионады 2025</h3>
       <p align="center">
-        <a href="https://github.com/Kasumicic/aktianada-2025-it-solution"><img src="https://raw.githubusercontent.com/Kasumicic/Kasumicic/refs/heads/main/.github/assets/botfly.png" alt="Project Preview" width="90%"></a>
+        <a href="https://github.com/Kasumicic/aktianada-2025-it-solution"><img src="https://raw.githubusercontent.com/Kasumicic/Kasumicic/refs/heads/main/.github/assets/aktianada.png" alt="Project Preview" width="90%"></a>
         <br>
         <em>Комплексный Data Science проект по классификации банковских транзакций с использованием NLP, инженерии признаков и LightGBM.</em>
         <br><br>
@@ -35,7 +35,7 @@
     <td width="50%">
       <h3 align="center">BotFly — Концепт PaaS-платформы</h3>
       <p align="center">
-        <a href="https://github.com/Kasumicic/botfly-site"><img src="https://raw.githubusercontent.com/Kasumicic/Kasumicic/refs/heads/main/.github/assets/aktianada.png" alt="Project Preview" width="90%"></a>
+        <a href="https://github.com/Kasumicic/botfly-site"><img src="https://raw.githubusercontent.com/Kasumicic/Kasumicic/refs/heads/main/.github/assets/botfly.png" alt="Project Preview" width="90%"></a>
         <br>
         <em>Прототип и полная концепция PaaS-платформы для ультра-дешевого хостинга Telegram-ботов. Демонстрация навыков продуктового мышления и проектирования систем.</em>
         <br><br>
