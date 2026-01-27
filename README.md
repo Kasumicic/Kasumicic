@@ -20,7 +20,7 @@
 
 ### 📫 Как со мной связаться
 
-*   **Email:** `slavkaplay2@gmail.com`
+*   **Email:** `vyacheslavnexus@gmail.com`
 *   **Telegram:** `@pom0gite_mne`
 
 ---
