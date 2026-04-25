@@ -26,5 +26,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kasumicic/Kasumicic/main/.github/assets/ezgif-15e68e127ee02e.gif" alt="ЭТО ЧТО, ЛИНУС ТОРВАЛЬДС?" width="600"/>
+  <img src="https://github.com/Kasumicic/Kasumicic/blob/main/.github/assets/ezgif-15e68e127ee02e.gif?raw=true" alt="ЭТО ЧТО, ЛИНУС ТОРВАЛЬДС?" width="600"/>
 </div>
