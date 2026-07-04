@@ -21,7 +21,7 @@
 ### 📫 Как со мной связаться
 
 *   **Email:** `vyacheslavnexus@gmail.com`
-*   **Telegram:** `@pom0gite_mne`
+*   **Telegram:** `@pomogite_mne`
 
 ---
 
