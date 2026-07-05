@@ -7,21 +7,30 @@
 ### 🚀 Мои навыки и инструменты
 
 *   **Операционные системы:** Linux (Ubuntu, CentOS), Windows Server
-*   **Скриптинг и автоматизация:** Bash, Python
+*   **Языки и автоматизация:** Python, Kotlin, Bash
+*   **Мобильная разработка:** Android SDK, Jetpack Compose
 *   **Сети:** TCP/IP, DNS, DHCP
 *   **Анализ данных:** Pandas, Scikit-learn, LightGBM, Jupyter
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 👥 Open Source & Community
+
+*   Контрибьючу в локализацию открытых проектов: когда-то помогал с переводом GNOME, сейчас периодически перевожу мелкий софт и сетевые утилиты (например, Throne).
 
 ---
 
 ### 📫 Как со мной связаться
 
-*   **Email:** `vyacheslavnexus@gmail.com`
-*   **Telegram:** `@pomogite_mne`
+*   **Email:** vyacheslavnexus@gmail.com
+*   **Telegram:** @pomogite_mne
 
 ---
 
